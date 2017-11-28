@@ -1,0 +1,30 @@
+ ☐ update first nav element to div (header)
+   ✔ homepage @done (17-11-25 15:47)
+   ✔ blog-medium-image @done (17-11-25 16:58)
+   ✔ about-me @done (17-11-25 17:10)
+   ✔ about us @done (17-11-25 17:10)
+   ✔ contact us @done (17-11-25 17:10)
+ ☐ fix sectioning
+   ✔ homepage @done (17-11-25 17:05)
+   ✔ blog-medium-image @done (17-11-25 17:05)
+   ✔ about grant @done (17-11-25 17:05)
+   ✔ about us @done (17-11-25 17:05)
+   ✔ contact us @done (17-11-25 17:10)  
+   ✔ blog-post @done (17-11-25 17:36)
+
+Files edited:
+  ✔ index.html @done (17-11-25 16:54)
+  ✔ custom.css @done (17-11-25 16:54)
+  ✔ blog-medium-image @done (17-11-25 16:58)
+  ✔ about-me.html @done (17-11-25 16:58)
+  ✔ about-us-basic.html @done (17-11-25 17:05)
+  ✔ contact-us.html @done (17-11-25 17:10)
+  ✔ blog-post.html @done (17-11-25 17:36)
+
+Files/Folders to remove:
+ ☐ css/demo
+
+
+Others:
+  ✔ set active classes for active pages @done (17-11-25 17:10)
+  ✔ replace first nav element to div (header section) @done (17-11-25 17:10)
